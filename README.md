@@ -20,11 +20,12 @@ Recursos prácticos de laboratorio del curso **Linux + Azure** by GMTech.
    cd laboratorios-linux-azure-gmtech/scripts
 
 
-Ejecuta el script de laboratorio:
+2. Ejecuta el script de laboratorio:
 
+    ```bash
 bash script_lab.sh
 
-Se crearán recursos en un grupo de recursos específico, con etiquetas asociadas al docente y al proyecto.
+Se crearán recursos en Azure dentro de un grupo de recursos exclusivo, etiquetados con nombre del docente y del proyecto.
 
 ✅ Requisitos previos
 Cuenta activa en Azure (idealmente con créditos gratuitos).
