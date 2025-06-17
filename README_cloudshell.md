@@ -90,25 +90,24 @@ Este laboratorio está diseñado para que aprendas los conceptos clave de almace
 
 Al finalizar el laboratorio, elimina todos los recursos creados para evitar costos innecesarios:
 
-```bash
-az group delete --name grupo-gmtech-lab --yes --no-wait
+   ```bash
+   az group delete --name grupo-gmtech-lab --yes --no-wait
 
 ## ¡Éxito con tu aprendizaje!
-
-```bash
 
 ---
 
 ### 📌 ¿Cómo subirlos a tu repo?
 
 1. Copia el contenido de cada archivo en un editor de texto y guárdalos como:
+  ```bash
 
-- `README_cloudshell.md`
-- `0-INTRODUCCION.md`
+   - `README_cloudshell.md`
+   - `0-INTRODUCCION.md`
 
 2. Abre tu terminal en la carpeta del repositorio y ejecuta:
 
-```bash
-git add README_cloudshell.md 0-INTRODUCCION.md
-git commit -m "Archivos de bienvenida y uso en Cloud Shell añadidos"
-git push origin main
+   ```bash
+   git add README_cloudshell.md 0-INTRODUCCION.md
+   git commit -m "Archivos de bienvenida y uso en Cloud Shell añadidos"
+   git push origin main
