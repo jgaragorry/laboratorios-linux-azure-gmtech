@@ -21,7 +21,7 @@ Puedes ejecutar este laboratorio directamente desde el navegador, sin instalar n
 
 🧹 Eliminación de recursos
 Cuando termines el laboratorio, elimina todos los recursos ejecutando:
-```bash
+
 az group delete --name grupo-gmtech-lab --yes --no-wait
 
 ## Esto eliminará el grupo de recursos completo y todos sus contenidos.
@@ -38,7 +38,7 @@ Estudiantes de cursos introductorios de Linux + Azure.
 
 Profesionales que están comenzando con la CLI de Azure.
 
-```bash
+
 
 ---
 
@@ -89,7 +89,7 @@ Este laboratorio está diseñado para que aprendas los conceptos clave de almace
 ## 📌 Recomendación
 
 Al finalizar el laboratorio, elimina todos los recursos creados para evitar costos innecesarios:
- ```bash
+
    az group delete --name grupo-gmtech-lab --yes --no-wait
 
 ## ¡Éxito con tu aprendizaje!
